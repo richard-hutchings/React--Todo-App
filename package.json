@@ -15,8 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "server": "json-server --watch db.json --port 3000",
-    "eject": "react-scripts eject"
-
+    "eject": "react-scripts eject",
+    "prod": "node server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
