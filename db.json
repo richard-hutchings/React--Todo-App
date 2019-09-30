@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Plan and Design App",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "title": "Write Code and debug",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Check for Responsiveness",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Deploy",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "*** Done! ***",
+      "completed": true
+    },
+    {
+      "title": "Test",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "Conquer the world!",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "bjkkgkjk",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "title": "sgdvdds",
+      "completed": true,
+      "id": 9
+    }
+  ]
+}
